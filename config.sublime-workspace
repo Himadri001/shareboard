@@ -1,0 +1,397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Categ",
+				"CategoryID"
+			],
+			[
+				"HOu",
+				"Houses"
+			],
+			[
+				"Prod",
+				"ProductManual"
+			],
+			[
+				"Hou",
+				"HouseID"
+			],
+			[
+				"Ca",
+				"CategoryID"
+			],
+			[
+				"Pr",
+				"ProductID"
+			],
+			[
+				"Cat",
+				"Categories"
+			],
+			[
+				"Pro",
+				"ProductManual"
+			],
+			[
+				"new",
+				"newproduct"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"Product",
+				"ProductID"
+			],
+			[
+				"Hous",
+				"HouseID"
+			],
+			[
+				"Ho",
+				"HouseID"
+			],
+			[
+				"C",
+				"CtegoryID"
+			],
+			[
+				"Cate",
+				"CategoryID"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"house",
+				"HouseID"
+			],
+			[
+				"House",
+				"HouseID"
+			],
+			[
+				"H",
+				"HouseID"
+			],
+			[
+				"HouseList",
+				"HouseListP"
+			],
+			[
+				"product",
+				"ProductName"
+			],
+			[
+				"Location",
+				"Location"
+			],
+			[
+				"h",
+				"header\tTag"
+			],
+			[
+				"form",
+				"form-control-feedback"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"pro_image"
+			],
+			[
+				"mysqli_",
+				"mysqli_fetch"
+			],
+			[
+				"categor",
+				"category_query"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"panel",
+				"panel-heading"
+			],
+			[
+				"stde",
+				"Student"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/himadrichowdhury/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/himadrichowdhury/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/shareboard/views/shares/search.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shareboard/views/shares/HouseList",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard 2/controllers/shares.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard 2/views/shares/add.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard 2/controllers/users.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard 2/config.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard 2/classes/Bootstrap.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard 2/views/main.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard 2/models/share.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard 2/models/home.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard 2/views/shares/index.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard/views/users/register.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard/models/home.php",
+		"/Users/himadrichowdhury/Documents/Udemy/shareboard/views/users/login.php",
+		"/Users/himadrichowdhury/Documents/Udemy/php.dev/classes/Database.php",
+		"/Users/himadrichowdhury/Documents/Udemy/php.dev/index.php",
+		"/Users/himadrichowdhury/Downloads/php.dev/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/BazarCom/bashundhara.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/BazarCom/login.php",
+		"/Users/himadrichowdhury/Downloads/data.sql",
+		"/Users/himadrichowdhury/Downloads/setup.sql",
+		"/Users/himadrichowdhury/Documents/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/tcruntime-admin.sh",
+		"/Users/himadrichowdhury/Documents/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/conf/commons-logging.properties",
+		"/Applications/XAMPP/xamppfiles/htdocs/310PROJECT/studentlogin.html",
+		"/Users/himadrichowdhury/Downloads/2066_wood_stock/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/mishu/loginn.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mishu/database_print.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mishu/connect.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Ticket/logout.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Ticket/loginn.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/connect.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/gladcomm/galadcom.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/BazarCom/css/bashundhara.css",
+		"/Users/himadrichowdhury/Downloads/ecommerce_website_rk/index.php",
+		"/Users/himadrichowdhury/Downloads/ecommerce_website_rk/db.php",
+		"/Users/himadrichowdhury/Downloads/310 PROJECT-1/css/studentcss.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/310PROJECT/studenthome.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/310PROJECT/adminlogin.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/310PROJECT/studentcss.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/BazarCom/css/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/310PROJECT/adminlogin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/310PROJECT/studentlogin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/BazarCom/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/310PROJECT/studenthome",
+		"/Applications/XAMPP/xamppfiles/htdocs/BazarCom/css/bootstrap.css.map",
+		"/Applications/XAMPP/xamppfiles/htdocs/BazarCom/main.css",
+		"/Users/himadrichowdhury/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
