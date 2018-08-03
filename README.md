@@ -1,1 +1,1 @@
-# shareboard
+Inventory managment system
